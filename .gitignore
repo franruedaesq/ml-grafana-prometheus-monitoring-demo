@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Data and model files
+*.joblib
+*.pkl
+*.h5
+*.csv
+*.json
+*.jsonl
+
+# Logs
+*.log
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Docker files
+*.pid
+*.sock
+
+# Ignore this file itself
+ignore_me
