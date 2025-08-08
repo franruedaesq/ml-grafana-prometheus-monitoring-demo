@@ -33,6 +33,6 @@ Make sure you have the following installed:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/franruedaesq/ml-monitoring-demo.git
+git clone https://github.com/franruedaesq/ml-grafana-prometheus-monitoring-demo.git
 cd ml-monitoring-demo
 
